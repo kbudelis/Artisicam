@@ -71,7 +71,7 @@ a:focus {
 
 .navbar-custom .navbar-brand {
     font-weight: 700;
-    font-family: 'Sue Ellen Francisco', cursive;
+    font-family: Helvetica;
 }
 
 .navbar-custom .navbar-brand:focus {
@@ -167,7 +167,7 @@ a:focus {
 }
 
 .intro .intro-body .brand-heading {
-font-family: 'Sue Ellen Francisco', cursive;
+font-family: Helvetica;
 }
 
 
